@@ -1,0 +1,18 @@
+{
+  "slug": "terraform-label",
+  "namespace": "infraprints",
+  "status": "archived",
+  "icon": "icon.svg",
+  "license": {
+    "type": "MIT",
+    "content": "Jonathan Beverly <jrbeverly>"
+  },
+  "topics": [
+    "terraform",
+    "terraform-module",
+    "naming-conventions"
+  ],
+  "languages": [
+    "HCL"
+  ]
+}
